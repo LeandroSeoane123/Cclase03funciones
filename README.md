@@ -23,3 +23,20 @@ Programación en C ,Clase 03  funciones
 
  (git push)
  
+
+
+
+Resumen 
+ clonar : git clone mi-repo
+ 
+ Iterativamente 
+
+   (Hacer cambios en los archivos)
+   
+   1- git add . (agrega archivos y cambios)
+   
+   2- git commit -m "mensaje" (toma instantanea de/del archivo/s)
+   
+   Para subir al repositorio (internet necesario):
+   
+   3- git push
